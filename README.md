@@ -51,8 +51,8 @@ This Proof of Concept (POC) is part of a three-month initiative led by **Accentu
 ---
 
 ## **Files in Repository**  
-1. **SocialBuzz_Analysis.xlsx:** Contains the cleaned datasets and analysis, including formulas and pivot tables.  
-2. **SocialBuzz_Insights.pptx:** A presentation detailing the insights, recommendations, and strategic next steps for Social Buzz.  
+1. **Datasets & Analytics.xlsx:** Contains the cleaned datasets and analysis, including formulas and pivot tables.  
+2. **Social Buzz Client Presentation.pptx:** A presentation detailing the insights, recommendations, and strategic next steps for Social Buzz.  
 
 ---
 
